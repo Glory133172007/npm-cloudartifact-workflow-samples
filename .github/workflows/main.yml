@@ -61,4 +61,4 @@ jobs:
         # 拉取CloudArtifact npm 私仓的npm package
       - name: install npm package 
         run: |
-          npm install @cloud/vue-demo
+          npm install
