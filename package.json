@@ -12,7 +12,8 @@
 	  "all":"npm run build && npm run rm && npm run tar"
   },
   "dependencies": {
-    "vue": "^2.2.1"
+    "vue": "^2.2.1",
+    "@cloud/vue-demo": "1.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
@@ -25,6 +26,5 @@
     "vue-template-compiler": "^2.2.1",
     "webpack": "^2.2.0",
     "webpack-dev-server": "^2.2.0",
-    "@cloud/vue-demo": "1.0.0"
   }
 }
